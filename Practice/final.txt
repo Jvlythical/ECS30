@@ -1,0 +1,6 @@
+Bill Mueller
+129450.98 4
+2:300.5:Living Room
+1:107.0:Bedroom 1
+2:158.3:Master Bedroom
+3:98.3:Kitchen
